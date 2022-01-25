@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Staff Registration Page</title>
+</head>
+<body style="background-color: whitesmoke;">
+    <table border="1" width="100%" height=100%  cellpadding="5"  style="height:100vh">
+        <tr>
+            <td colspan="2" height="20%" align="center">
+                <h1 style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size: 50px; color: rgb(230, 184, 98);">UNIVERSITY OF NATIONS</h1>
+            </td>
+        </tr>
+        <tr>
+            <td width="15%" align="left" style="
+                background-color: whitesmoke;
+                padding: 10px;
+                font-size: 16px;
+                ">
+                <ul type="none">
+                    <li><a href="./index.html">Home</a></li><br>
+                    <li><a href="./Branches.html">Branches</a></li><br>
+                    <li><a href="./Gallery.html">Gallery</a></li><br>
+                    <li><a href="./Student Registration.html">Student Portal</a></li><br>
+                    <li><a href="./Staff Registration.html">Staff Portal</a></li><br>
+                </ul>
+            </td>
+            <td align="center" style="background-color: white;">
+                <form>
+                    <table width="950" border="0" align="center" cellpadding="5" cellspacing="15">
+                        <tr>
+                            <td align="center" colspan="2">
+                                <h2>Student Registration Form</h2>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><strong>Full Name :</strong></td>
+                            <td><input name="name" type="text" size="35" required /></td>
+                        </tr>
+                        <tr>
+                            <td><strong>D-O-B :</strong></td>
+                            <td><input type="date" type="number" size="35" required /></td>
+                        </tr>
+                        <tr>
+                            <td><strong>Gender :</strong></td>
+                            <td>
+                                <input type="radio" name="gender" value="male">Male
+                                <input type="radio" name="gender" value="female">Female
+                            </td>
+                        </tr>
+                        <!-- Code By Manoj Karnatapu -->
+                        <tr>
+                            <td><strong>Email :</strong></td>
+                            <td><input name="Email" type="email" size="35" required /></td>
+                        </tr>
+                
+                        <tr>
+                            <td><strong>Address :</strong></td>
+                            <td><textarea name="address" id="address" cols="30" rows="4"></textarea></td>
+                        </tr>
+                
+                        <tr>
+                            <td><strong>School Name :</strong></td>
+                            <td><input type="text" name="sname" id="sname" size="35"></td>
+                        </tr>
+                
+                        <tr>
+                            <td><strong>College Name :</strong></td>
+                            <td><input type="text" name="clgname" id="clgname" size="35"></td>
+                        </tr>
+                        <tr>
+                            <td><strong>JoiningDate :</strong></td>
+                            <td><input type="date" type="number" size="35" required /></td>
+                        </tr>
+                        <tr>
+                            <td><strong>Department:</strong></td>
+                            <td><select name="department" id="deprtbranch">
+                                    <option>...Select...</option>
+                                    <option value="CSE">Computer Science and Engineering</option>
+                                    <option value="ECE">Electronics & Communication Engineering</option>
+                                    <option value="EEE">Electrical and Electronics Engineering</option>
+                                    <option value="MECH">Mechanical Engineering</option>
+                                    <option value="CIVIL">Civil Engineering</option>
+                                    <option value="AERO">Aeronautical Engineering</option>
+                                    <option value="Automobile">Automobile Engineering</option>
+                                    <option value="Biotech">Biotechnology</option>
+                                </select></td>
+                        </tr>
+                        <tr>
+                            <td rowspan="2"><strong>Access Services :</strong></td>
+                            <td>
+                                <input type="checkbox" name="BusService" id="chkBus">Bus Service
+                                <input type="checkbox" name="HstlService" id="chkHstl">Hostel Facility
+                                <input type="checkbox" name="NetService" id="chkNet">Net Access
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <input type="checkbox" name="LibraryAccess" id="LibAccess">Library Access
+                                <input type="checkbox" name="sportsClub" id="SportsClub">Sports Club
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><strong>Mobile Number:</strong></td>
+                            <td><input type="number" name="mobileN" id="MobileNumber"></td>
+                        </tr>
+                        <tr>
+                            <td align="center"><input type="reset"/></td>
+                            <td align="center"><input type="submit" value="Submit" /></td>
+                        </tr>
+                    </table>
+                </form>
+                <hr>
+                <Marquee>Please Fill Registration Form with All Rrequired Feilds</Marquee><br>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" height="10%" align="center" >&copy; Manoj Karnatapu, 2022. </td>
+
+        </tr>
+
+    </table>
+    
+</body>
+</html>

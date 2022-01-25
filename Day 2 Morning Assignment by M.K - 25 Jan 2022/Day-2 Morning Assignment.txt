@@ -1,0 +1,14 @@
+Day-2 Morning Assignment [ 25-Jan-2022 ]
+----------------------------------------
+Memory Units and Number System
+Operators
+Data Types
+Control Structures 
+[Must take the quiz from the link in the 
+description ]
+-------------------------------------------
+Write C# program to print Hello 5 times
+Write C# program to print numbers from 1 to 10
+Debug C# program and put screen shots while
+ debugging.
+-------------------------------------------

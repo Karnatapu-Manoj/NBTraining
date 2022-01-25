@@ -1,0 +1,16 @@
+Day-1 Evening Assignment:
+============================
+1. write all 14 data types discussed in class in sequence
+2. write list of 4 number systems and their digits range
+3. convert decimal : 55, 24, 18 to binary
+4. convert binary : 10110, 1011, 101110  to decimal
+
+Complete the review the videos of C# foundation:
+Number System, 
+Data Types, 
+Operators
+
++
+
+HTML videos
+===============================================================

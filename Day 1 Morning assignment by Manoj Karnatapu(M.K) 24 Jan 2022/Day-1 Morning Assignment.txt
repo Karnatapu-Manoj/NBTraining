@@ -1,0 +1,31 @@
+Assignments for today:
+===========================
+1. Complete all html videos in the below link:
+https://youtube.com/playlist?list=PLJ-gK6TSig6YQANCAXjnkEANx7ABg5dvr
+
+Create a html web site with 5 pages and zip the folder and mail me before 5.00 PM today
+
+===========================================================
+
+2. Create below applications 
+   a. Console application for adding two numbers
+   b. Console application for a power b (using for loop)
+
+3. Same as above but create using desktop application
+
+[ 5 pm today ]
+
+==========================================================================
+
+4. From the below link complete,
+
+   https://www.youtube.com/playlist?list=PLJ-gK6TSig6YvJwikKOSMAHa1388qRMk0
+
+   Memory units, Operators, Data Types  .
+
+=============================================================================
+   
+
+
+
+
