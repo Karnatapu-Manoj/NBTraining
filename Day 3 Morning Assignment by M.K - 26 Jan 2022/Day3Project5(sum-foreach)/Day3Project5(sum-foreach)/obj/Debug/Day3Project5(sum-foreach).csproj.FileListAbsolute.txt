@@ -1,0 +1,8 @@
+D:\C#.Net\GitHub NB\Day 3 Morning Assignment by M.K - 26 Jan 2022\Day3Project5(sum-foreach)\Day3Project5(sum-foreach)\bin\Debug\Day3Project5(sum-foreach).exe.config
+D:\C#.Net\GitHub NB\Day 3 Morning Assignment by M.K - 26 Jan 2022\Day3Project5(sum-foreach)\Day3Project5(sum-foreach)\bin\Debug\Day3Project5(sum-foreach).exe
+D:\C#.Net\GitHub NB\Day 3 Morning Assignment by M.K - 26 Jan 2022\Day3Project5(sum-foreach)\Day3Project5(sum-foreach)\bin\Debug\Day3Project5(sum-foreach).pdb
+D:\C#.Net\GitHub NB\Day 3 Morning Assignment by M.K - 26 Jan 2022\Day3Project5(sum-foreach)\Day3Project5(sum-foreach)\obj\Debug\Day3Project5(sum-foreach).csproj.AssemblyReference.cache
+D:\C#.Net\GitHub NB\Day 3 Morning Assignment by M.K - 26 Jan 2022\Day3Project5(sum-foreach)\Day3Project5(sum-foreach)\obj\Debug\Day3Project5(sum-foreach).csproj.SuggestedBindingRedirects.cache
+D:\C#.Net\GitHub NB\Day 3 Morning Assignment by M.K - 26 Jan 2022\Day3Project5(sum-foreach)\Day3Project5(sum-foreach)\obj\Debug\Day3Project5(sum-foreach).csproj.CoreCompileInputs.cache
+D:\C#.Net\GitHub NB\Day 3 Morning Assignment by M.K - 26 Jan 2022\Day3Project5(sum-foreach)\Day3Project5(sum-foreach)\obj\Debug\Day3Project5(sum-foreach).exe
+D:\C#.Net\GitHub NB\Day 3 Morning Assignment by M.K - 26 Jan 2022\Day3Project5(sum-foreach)\Day3Project5(sum-foreach)\obj\Debug\Day3Project5(sum-foreach).pdb

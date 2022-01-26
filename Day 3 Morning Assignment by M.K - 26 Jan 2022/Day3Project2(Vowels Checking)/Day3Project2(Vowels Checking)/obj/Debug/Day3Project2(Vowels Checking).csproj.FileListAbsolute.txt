@@ -1,0 +1,7 @@
+D:\C#.Net\GitHub NB\Day 3 Morning Assignment by M.K - 26 Jan 2022\Day3Project2(Vowels Checking)\Day3Project2(Vowels Checking)\bin\Debug\Day3Project2(Vowels Checking).exe.config
+D:\C#.Net\GitHub NB\Day 3 Morning Assignment by M.K - 26 Jan 2022\Day3Project2(Vowels Checking)\Day3Project2(Vowels Checking)\bin\Debug\Day3Project2(Vowels Checking).exe
+D:\C#.Net\GitHub NB\Day 3 Morning Assignment by M.K - 26 Jan 2022\Day3Project2(Vowels Checking)\Day3Project2(Vowels Checking)\bin\Debug\Day3Project2(Vowels Checking).pdb
+D:\C#.Net\GitHub NB\Day 3 Morning Assignment by M.K - 26 Jan 2022\Day3Project2(Vowels Checking)\Day3Project2(Vowels Checking)\obj\Debug\Day3Project2(Vowels Checking).csproj.SuggestedBindingRedirects.cache
+D:\C#.Net\GitHub NB\Day 3 Morning Assignment by M.K - 26 Jan 2022\Day3Project2(Vowels Checking)\Day3Project2(Vowels Checking)\obj\Debug\Day3Project2(Vowels Checking).csproj.CoreCompileInputs.cache
+D:\C#.Net\GitHub NB\Day 3 Morning Assignment by M.K - 26 Jan 2022\Day3Project2(Vowels Checking)\Day3Project2(Vowels Checking)\obj\Debug\Day3Project2(Vowels Checking).exe
+D:\C#.Net\GitHub NB\Day 3 Morning Assignment by M.K - 26 Jan 2022\Day3Project2(Vowels Checking)\Day3Project2(Vowels Checking)\obj\Debug\Day3Project2(Vowels Checking).pdb

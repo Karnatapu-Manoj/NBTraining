@@ -1,0 +1,25 @@
+1. Write the differences between
+while and do while loop.
+
+2. Write simple C# code from notepad
+  and compile it using csc
+  put the screen shot.
+
+3. Create a quiz application with any
+five questions of your choice and
+ask your family member to take the quiz.
+
+4. WACP to check if entered character
+is vowel or not using switch case.
+
+5. WACP to read 5 numbers from user and print sum and average. [ using array ]
+
+6. Write the 6 points about arrays discussed in the class.
+
+7. WACP to read 4 numbers from user and print the values using foreach loop.
+
+8. WACP to initialize an array with 5 values and find sum
+using foreach loop
+
+
+
