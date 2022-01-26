@@ -1,0 +1,8 @@
+D:\C#.Net\GitHub NB\Day 2 Evening Assignment by M.K - 25 Jan 2022\Day2Project3\Day2Project3\bin\Debug\Day2Project3.exe.config
+D:\C#.Net\GitHub NB\Day 2 Evening Assignment by M.K - 25 Jan 2022\Day2Project3\Day2Project3\bin\Debug\Day2Project3.exe
+D:\C#.Net\GitHub NB\Day 2 Evening Assignment by M.K - 25 Jan 2022\Day2Project3\Day2Project3\bin\Debug\Day2Project3.pdb
+D:\C#.Net\GitHub NB\Day 2 Evening Assignment by M.K - 25 Jan 2022\Day2Project3\Day2Project3\obj\Debug\Day2Project3.csproj.SuggestedBindingRedirects.cache
+D:\C#.Net\GitHub NB\Day 2 Evening Assignment by M.K - 25 Jan 2022\Day2Project3\Day2Project3\obj\Debug\Day2Project3.csproj.CoreCompileInputs.cache
+D:\C#.Net\GitHub NB\Day 2 Evening Assignment by M.K - 25 Jan 2022\Day2Project3\Day2Project3\obj\Debug\Day2Project3.exe
+D:\C#.Net\GitHub NB\Day 2 Evening Assignment by M.K - 25 Jan 2022\Day2Project3\Day2Project3\obj\Debug\Day2Project3.pdb
+D:\C#.Net\GitHub NB\Day 2 Evening Assignment by M.K - 25 Jan 2022\Day2Project3\Day2Project3\obj\Debug\Day2Project3.csproj.AssemblyReference.cache
