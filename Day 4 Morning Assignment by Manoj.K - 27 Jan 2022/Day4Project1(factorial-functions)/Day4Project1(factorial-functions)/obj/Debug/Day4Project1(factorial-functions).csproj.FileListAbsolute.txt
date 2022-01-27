@@ -1,0 +1,8 @@
+D:\C#.Net\GitHub NB\Day 4 Morning Assignment by Manoj.K - 27 Jan 2022\Day4Project1(factorial-functions)\Day4Project1(factorial-functions)\bin\Debug\Day4Project1(factorial-functions).exe.config
+D:\C#.Net\GitHub NB\Day 4 Morning Assignment by Manoj.K - 27 Jan 2022\Day4Project1(factorial-functions)\Day4Project1(factorial-functions)\bin\Debug\Day4Project1(factorial-functions).exe
+D:\C#.Net\GitHub NB\Day 4 Morning Assignment by Manoj.K - 27 Jan 2022\Day4Project1(factorial-functions)\Day4Project1(factorial-functions)\bin\Debug\Day4Project1(factorial-functions).pdb
+D:\C#.Net\GitHub NB\Day 4 Morning Assignment by Manoj.K - 27 Jan 2022\Day4Project1(factorial-functions)\Day4Project1(factorial-functions)\obj\Debug\Day4Project1(factorial-functions).csproj.AssemblyReference.cache
+D:\C#.Net\GitHub NB\Day 4 Morning Assignment by Manoj.K - 27 Jan 2022\Day4Project1(factorial-functions)\Day4Project1(factorial-functions)\obj\Debug\Day4Project1(factorial-functions).csproj.SuggestedBindingRedirects.cache
+D:\C#.Net\GitHub NB\Day 4 Morning Assignment by Manoj.K - 27 Jan 2022\Day4Project1(factorial-functions)\Day4Project1(factorial-functions)\obj\Debug\Day4Project1(factorial-functions).csproj.CoreCompileInputs.cache
+D:\C#.Net\GitHub NB\Day 4 Morning Assignment by Manoj.K - 27 Jan 2022\Day4Project1(factorial-functions)\Day4Project1(factorial-functions)\obj\Debug\Day4Project1(factorial-functions).exe
+D:\C#.Net\GitHub NB\Day 4 Morning Assignment by Manoj.K - 27 Jan 2022\Day4Project1(factorial-functions)\Day4Project1(factorial-functions)\obj\Debug\Day4Project1(factorial-functions).pdb
