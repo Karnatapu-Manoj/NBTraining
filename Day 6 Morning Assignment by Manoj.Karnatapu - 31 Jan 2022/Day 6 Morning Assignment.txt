@@ -21,7 +21,7 @@ Day 6 Morning Assignment:
 
 6. Research and find how the values of List<T> are stored in the memory.
 
-7. WACP to declare List<String> and add 5 values and print the values using
+7. WACP to declare List<String> and print the values using
 
     a. for loop
     b. foreach loop
