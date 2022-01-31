@@ -1,0 +1,38 @@
+================================
+Day 6 Morning Assignment:
+================================
+
+1. Create a simple program to declare ArrayList and assign some values
+   and find sum.
+
+2. Research and find how the values of ArrayList are stored in the memory.
+
+3. What are the dis-advantages of ArrayList (Collections ArrayList)
+
+4. Create a simple program to declare List<int> and assign some values
+   and find sum
+
+5. In a tabular format write the differences between Collections and generics.
+
+   1. namespace
+   2. Each element is of what type
+   3. do you need type casting here
+   4. Example - ArrayList,    List<T>
+
+6. Research and find how the values of List<T> are stored in the memory.
+
+7. WACP to declare List<String> and add 5 values and print the values using
+
+    a. for loop
+    b. foreach loop
+    c. Lambda Expression
+
+8. WACP to declare List<int> and read 5 values from user and find sum using
+    a. for loop
+    b. foreach loop
+    c. Lamdba Expression
+
+9. In a tabular format write all data types in C# and write the respective alias name
+
+10. Write example programs for implicit and explicit type casting.
+
