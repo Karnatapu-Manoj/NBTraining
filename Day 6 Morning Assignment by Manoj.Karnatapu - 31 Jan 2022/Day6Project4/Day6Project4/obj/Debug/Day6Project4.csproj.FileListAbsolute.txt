@@ -1,0 +1,7 @@
+D:\C#.Net\Day6Project4\Day6Project4\bin\Debug\Day6Project4.exe.config
+D:\C#.Net\Day6Project4\Day6Project4\bin\Debug\Day6Project4.exe
+D:\C#.Net\Day6Project4\Day6Project4\bin\Debug\Day6Project4.pdb
+D:\C#.Net\Day6Project4\Day6Project4\obj\Debug\Day6Project4.csproj.SuggestedBindingRedirects.cache
+D:\C#.Net\Day6Project4\Day6Project4\obj\Debug\Day6Project4.csproj.CoreCompileInputs.cache
+D:\C#.Net\Day6Project4\Day6Project4\obj\Debug\Day6Project4.exe
+D:\C#.Net\Day6Project4\Day6Project4\obj\Debug\Day6Project4.pdb
