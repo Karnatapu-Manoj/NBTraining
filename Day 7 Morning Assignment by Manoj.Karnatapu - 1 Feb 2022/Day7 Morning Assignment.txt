@@ -1,0 +1,41 @@
+
+1. Create Employee class with three variables and two methods
+   ReadEmployee and PrintEmployee and create an object and call methods.
+
+2. Write the 3 def of class and 4 points about object discussed in the class.
+
+3. Pictorially represent class and multiple objects
+
+4. Create below classes:
+             1. Customer
+             2. Product
+             3. Seller
+             4. Department
+
+5. Create Employee class with 3 public variables.
+   Create Employee object and initialize with values while creating object  
+   and print the values.
+
+6. Create Employee class as shown below:
+   class Employee
+    {
+        public int id;
+        public string name;
+        public int salary;
+    }
+
+    now create employees array object and initialize with 5 employees
+    write code using
+     a. for loop
+     b. foreach loop
+     c. lambda expression.
+
+7. For the above project,
+   write code to print employees who is getting salary >=5000 using
+   for loop
+   foreach loop
+   lambda expression
+
+8. Similar to 6 and 7 projects create list of Customer an Product Arrays
+   and practice for, foreach and lambda expression
+
