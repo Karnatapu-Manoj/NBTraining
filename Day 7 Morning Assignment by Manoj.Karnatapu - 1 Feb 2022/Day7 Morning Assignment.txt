@@ -5,13 +5,11 @@
 2. Write the 3 def of class and 4 points about object discussed in the class.
 
 3. Pictorially represent class and multiple objects
-
 4. Create below classes:
              1. Customer
              2. Product
              3. Seller
              4. Department
-
 5. Create Employee class with 3 public variables.
    Create Employee object and initialize with values while creating object  
    and print the values.
@@ -23,7 +21,6 @@
         public string name;
         public int salary;
     }
-
     now create employees array object and initialize with 5 employees
     write code using
      a. for loop
