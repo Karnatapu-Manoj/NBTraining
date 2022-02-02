@@ -1,0 +1,46 @@
+--------------------------
+Day8 Morning assignment
+--------------------------
+1. Declare and initialize a list with 8 values.
+  write for loop, foreach loop, lambda, linq query
+ to print even numbers
+-------------------------------------
+2. Create a class Employee with three variables as discussed in the class and create a list of Employees
+public int id;
+        public string name;
+        public int salary;
+write 
+for loop
+foreach loop
+lambda expression
+linq query
+-----------------------------------------
+3. Create a class Product and add variables
+   id, name, price, brand
+
+   print product (name and brand) whose price is more than 500
+using 
+for
+foreach loop
+lambda
+linq query
+-----------------------------------------------
+4. Create a Department class and add variables
+   id,name,empcount
+   write code to print id,name of departments whose empcount is greater than 50
+using
+for
+foreach
+lambda
+linq query
+------------------------------------------------
+5. Create your own class and variables and 
+initialize with some values
+for
+foreach
+lambda
+linq query
+-----------------------------------------------
+   
+
+
