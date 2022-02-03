@@ -3,3 +3,11 @@ This is the Cloned Git hub repo into my new laptop,
 trying to push lastest files from new laptop, to an existing Repo, instead of deleting and Creating New Repo For my Training.
 
 Without loosing Pushed Timings details, and Old Assignments.
+
+
+============
+These are final modification statements , to confirm wether everything is fine or not.
+
+and its done with.perfect
+
+
