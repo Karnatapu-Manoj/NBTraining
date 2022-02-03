@@ -1,0 +1,23 @@
+Day9 Morning Assignment
+================================
+1. Write a C# program to read input from user and print
+   a. factorial of a number
+   b. factors of a number
+   c. check if it prime or not
+
+2. Write C# program to read two numbers from use and print
+   a. sum of two numbers
+   b. difference of two numbers
+   c. product of two numbers
+   d. division of two numbers.
+
+3. Create an employee class with below variables
+   id, name, salary, company
+   write methods to read data and print data.
+
+4. Research and find the difference between normal variable and static variable.
+
+5. Write 5 points discussed about constructor
+
+6. Create Employee class with two constructors as discussed in the class.
+
