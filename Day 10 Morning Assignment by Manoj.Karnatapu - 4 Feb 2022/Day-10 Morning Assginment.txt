@@ -1,0 +1,23 @@
+====================================
+Day-10 Morning Assginment
+------------------------------------
+1. Write the two points discussed about inheritance in the class.
+2. Write example code for:
+   a. Single inheritance
+   b. Multi level inheritance
+
+3. Pictorially represent 3 types of inheritance discussed
+ in the class.
+
+4. Why multiple inheritance is not supported for classes in
+   C#
+
+5. What is polymorphism.
+
+6. Write sample code for method overloading
+
+7. Write sample code for method overriding
+   [ using new key word ]
+
+8. Research and write sample code for method overriding
+   using virual, override keyword.
