@@ -1,0 +1,7 @@
+D:\C#\GitHub\Day10Project2\Day10Project2\bin\Debug\Day10Project2.exe.config
+D:\C#\GitHub\Day10Project2\Day10Project2\bin\Debug\Day10Project2.exe
+D:\C#\GitHub\Day10Project2\Day10Project2\bin\Debug\Day10Project2.pdb
+D:\C#\GitHub\Day10Project2\Day10Project2\obj\Debug\Day10Project2.csproj.SuggestedBindingRedirects.cache
+D:\C#\GitHub\Day10Project2\Day10Project2\obj\Debug\Day10Project2.csproj.CoreCompileInputs.cache
+D:\C#\GitHub\Day10Project2\Day10Project2\obj\Debug\Day10Project2.exe
+D:\C#\GitHub\Day10Project2\Day10Project2\obj\Debug\Day10Project2.pdb
