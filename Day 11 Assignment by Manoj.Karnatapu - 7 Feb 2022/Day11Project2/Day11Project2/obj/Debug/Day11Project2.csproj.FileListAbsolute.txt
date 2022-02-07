@@ -1,0 +1,8 @@
+D:\C#\GitHub\Day11Project2\Day11Project2\bin\Debug\Day11Project2.exe.config
+D:\C#\GitHub\Day11Project2\Day11Project2\bin\Debug\Day11Project2.exe
+D:\C#\GitHub\Day11Project2\Day11Project2\bin\Debug\Day11Project2.pdb
+D:\C#\GitHub\Day11Project2\Day11Project2\obj\Debug\Day11Project2.csproj.AssemblyReference.cache
+D:\C#\GitHub\Day11Project2\Day11Project2\obj\Debug\Day11Project2.csproj.SuggestedBindingRedirects.cache
+D:\C#\GitHub\Day11Project2\Day11Project2\obj\Debug\Day11Project2.csproj.CoreCompileInputs.cache
+D:\C#\GitHub\Day11Project2\Day11Project2\obj\Debug\Day11Project2.exe
+D:\C#\GitHub\Day11Project2\Day11Project2\obj\Debug\Day11Project2.pdb
