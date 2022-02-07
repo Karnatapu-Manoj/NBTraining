@@ -1,0 +1,11 @@
+Day 10 Evening Assignment:
+-----------------------------
+
+Research and try to understand what is
+Abstraction
+
+Write the 2 main uses of Abstract class
+by using the example discussed in the class.
+
+Create one more example of your choice to 
+demonstrate abstract class
