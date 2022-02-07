@@ -1,0 +1,38 @@
+-----------------------------
+Day-11 Assignment:
+-----------------------------
+1. Research and write the difference between
+   abstract class and interface in C#
+
+2. Write the 6 points about interface discussed in the class
+
+3. Write example program for interfaces discussed in the class 
+   IShape
+   include the classes
+   Cricle, Square, Triangle, Rectangle
+
+4. Write the 7 points discussed about properties.
+
+5. Write sample code to illustrate properties as discussed in class.
+   id
+   name
+   designation
+   salary
+
+   id-get, set
+   name-get,set
+   designation-set (writeonly)
+   salary-get (get with some functionality)
+
+6. Create a class Employee with only properties.
+
+7. Create Mathematics class and add 3 static methods and call the 
+  methods in main method.
+
+8. Research and understand when to create static methods.
+
+
+
+
+
+
