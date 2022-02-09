@@ -1,0 +1,38 @@
+======================
+Day-13 Assignment:
+======================
+1. Declare a 2 dimentional array of size (2,2) and 
+initialize using indexes and print the values using
+nested for loop
+
+2. Declare a 2-D array of size (3,2) and initialize 
+in the same line while declaring and print the values
+using nested for loop
+
+3. Declare a 2-D array of size (3,3) and print
+trace of the array
+
+4. Declare a 2-D array of size (2,2) and read values from
+user and print the array values.
+
+5. Declare TWO 2-D arrays of size (2,2) and read values from
+user and print the sum of the two matrices.
+
+6. Declare TWO 2-D arrays of size (2,2) and read values from
+user and print the product of the two matrices.
+
+7. What is a jagged array
+   What is the benefit of jagged array
+
+8. WACP to declare a jagged array and print values
+
+9. What is Recursion
+
+10. WACP to illustrate usage of Recursion.
+    What are the benefits of recursion
+
+11. WACP to illustrate usage of Stack<>
+    Write couple of points about Stack
+
+12. WACP to illustrate usage of Queue<>
+    Write couple of points about Queue.
