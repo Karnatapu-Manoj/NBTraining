@@ -1,0 +1,7 @@
+D:\C#\GitHub\Day13Project3\Day13Project3\bin\Debug\Day13Project3.exe.config
+D:\C#\GitHub\Day13Project3\Day13Project3\bin\Debug\Day13Project3.exe
+D:\C#\GitHub\Day13Project3\Day13Project3\bin\Debug\Day13Project3.pdb
+D:\C#\GitHub\Day13Project3\Day13Project3\obj\Debug\Day13Project3.csproj.SuggestedBindingRedirects.cache
+D:\C#\GitHub\Day13Project3\Day13Project3\obj\Debug\Day13Project3.csproj.CoreCompileInputs.cache
+D:\C#\GitHub\Day13Project3\Day13Project3\obj\Debug\Day13Project3.exe
+D:\C#\GitHub\Day13Project3\Day13Project3\obj\Debug\Day13Project3.pdb
