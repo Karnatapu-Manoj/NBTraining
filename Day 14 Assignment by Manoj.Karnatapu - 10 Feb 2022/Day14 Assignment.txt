@@ -1,0 +1,37 @@
+1. Research and write what is the use of sealed class.
+WACP to illustrate sealed class.
+
+
+2. Research and write what is the difference
+between normal properties and auto-implemented
+properties.
+WACP to illustrate normal properties
+WACP to issustrate auto-implemented properties
+
+3. Research and fix the below issue:
+
+interface IRules
+    {
+        int Age { get; set; }
+
+        int add(int a, int b);
+
+        public void PrintHi()
+        {
+            Console.WriteLine("Hi");
+        }
+    }
+
+4. WACP to check if the number is prime or not
+using logic discussed in the class
+HINT : use break;
+
+5. print numbers from 1 to 30
+   and skip the numbers divisible by 3
+HINT : use continue;
+
+6. Find the first number after 1000 which is
+divisible by 97.
+HINT : use for loop and break
+
+
