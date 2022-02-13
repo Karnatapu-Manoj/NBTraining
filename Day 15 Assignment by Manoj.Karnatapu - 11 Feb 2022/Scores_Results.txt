@@ -1,0 +1,15 @@
+ Name : Manoj Karnatapu 
+	 Score : 80
+
+ Name : Vihar Dasari 
+	 Score : 80
+
+ Name : Pavan Kumar 
+	 Score : 80
+
+ Name : Manoj Yekkola 
+	 Score : 40
+
+ Name : Vamsi Krishna 
+	 Score : 60
+
