@@ -1,0 +1,56 @@
+==========================
+Day-16 Assignment:
+--------------------------
+
+1. WACP to print Hello World
+   Hint: Think object oriented
+
+2. WACP to read a number from user and print factorial of it.
+   Hink : Think object oriented
+
+3. For the console application created in 2nd task,
+   add screen shot of the .exe file location
+
+4. Create a Class Library Project with name as
+   <YourName>Library  ( Example : MeganadhLibrary )
+
+   Create a class Mathematics as discussed in the class.
+   [ Add methods for reading number and finding factorial ]
+
+   Re-Build the project and you will a .dll file.
+    ( Put the screen shot of this )
+
+   Copy the dll file to your desktop
+     (put the screen shot of this )
+
+5. Create a class library with three classes in it:
+   a. Mathematics
+   b. Physics
+   c. Chemistry
+
+   and add methods as discussed in the class
+
+   refer all the three classes in a console application.
+
+
+6. WACP to print multable table of a number
+
+7. WACP to check if the given is number is Palindrome or not
+
+8. Create a solution "MyProject" (as discussed in class)
+   Add three projects
+    a. YourNameLibrary (and add any class with methods)
+    b. PublicLibrary (add any class with methods)
+    c. ClientApp (and here refer above two libraries)
+
+    Note : If you are confused., see the video
+
+
+9. Add one more project (windows application)
+
+   Add some 3 or 4 screen shots just to prove that
+   you have done this.
+
+10. Research and write what is the use of partial classes
+in C#
+ WRITE EXAMPLE CODE AND PUT SCREEN SHOTS
