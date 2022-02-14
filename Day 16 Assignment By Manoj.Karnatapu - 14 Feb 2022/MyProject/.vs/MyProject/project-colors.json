@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e91e3c5b-7696-444f-8c85-7d4f90e40b64": {
+      "ProjectGuid": "e91e3c5b-7696-444f-8c85-7d4f90e40b64",
+      "DisplayName": "MyProject",
+      "ColorIndex": 0
+    },
+    "8b3cf40d-f12e-4e9d-b447-d76e326261a3": {
+      "ProjectGuid": "8b3cf40d-f12e-4e9d-b447-d76e326261a3",
+      "DisplayName": "ClientApp",
+      "ColorIndex": 1
+    },
+    "d509d29a-a2e9-45c3-b31f-1ae9ac00ebd3": {
+      "ProjectGuid": "d509d29a-a2e9-45c3-b31f-1ae9ac00ebd3",
+      "DisplayName": "ManojLibrary",
+      "ColorIndex": 2
+    },
+    "14418a44-e9a8-401a-a101-8efb5a4d8108": {
+      "ProjectGuid": "14418a44-e9a8-401a-a101-8efb5a4d8108",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 3
+    },
+    "58c50133-17a8-482e-858d-d739773b1437": {
+      "ProjectGuid": "58c50133-17a8-482e-858d-d739773b1437",
+      "DisplayName": "DesktopAppFactorial",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

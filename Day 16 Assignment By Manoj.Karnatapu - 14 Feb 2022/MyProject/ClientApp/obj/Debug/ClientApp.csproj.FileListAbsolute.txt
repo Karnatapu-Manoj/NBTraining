@@ -1,0 +1,13 @@
+D:\C#\GitHub\MyProject\ClientApp\bin\Debug\ClientApp.exe.config
+D:\C#\GitHub\MyProject\ClientApp\bin\Debug\ClientApp.exe
+D:\C#\GitHub\MyProject\ClientApp\bin\Debug\ClientApp.pdb
+D:\C#\GitHub\MyProject\ClientApp\bin\Debug\ManojLibrary.dll
+D:\C#\GitHub\MyProject\ClientApp\bin\Debug\PublicLibrary.dll
+D:\C#\GitHub\MyProject\ClientApp\bin\Debug\ManojLibrary.pdb
+D:\C#\GitHub\MyProject\ClientApp\bin\Debug\PublicLibrary.pdb
+D:\C#\GitHub\MyProject\ClientApp\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+D:\C#\GitHub\MyProject\ClientApp\obj\Debug\ClientApp.csproj.SuggestedBindingRedirects.cache
+D:\C#\GitHub\MyProject\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+D:\C#\GitHub\MyProject\ClientApp\obj\Debug\ClientApp.csproj.CopyComplete
+D:\C#\GitHub\MyProject\ClientApp\obj\Debug\ClientApp.exe
+D:\C#\GitHub\MyProject\ClientApp\obj\Debug\ClientApp.pdb

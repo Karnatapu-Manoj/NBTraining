@@ -1,0 +1,6 @@
+D:\C#\GitHub\MyProject\PublicLibrary\bin\Debug\PublicLibrary.dll
+D:\C#\GitHub\MyProject\PublicLibrary\bin\Debug\PublicLibrary.pdb
+D:\C#\GitHub\MyProject\PublicLibrary\obj\Debug\PublicLibrary.csproj.AssemblyReference.cache
+D:\C#\GitHub\MyProject\PublicLibrary\obj\Debug\PublicLibrary.csproj.CoreCompileInputs.cache
+D:\C#\GitHub\MyProject\PublicLibrary\obj\Debug\PublicLibrary.dll
+D:\C#\GitHub\MyProject\PublicLibrary\obj\Debug\PublicLibrary.pdb

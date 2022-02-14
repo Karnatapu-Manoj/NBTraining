@@ -1,0 +1,16 @@
+D:\C#\GitHub\MyProject\DesktopAppFactorial\bin\Debug\DesktopAppFactorial.exe.config
+D:\C#\GitHub\MyProject\DesktopAppFactorial\bin\Debug\DesktopAppFactorial.exe
+D:\C#\GitHub\MyProject\DesktopAppFactorial\bin\Debug\DesktopAppFactorial.pdb
+D:\C#\GitHub\MyProject\DesktopAppFactorial\bin\Debug\ManojLibrary.dll
+D:\C#\GitHub\MyProject\DesktopAppFactorial\bin\Debug\PublicLibrary.dll
+D:\C#\GitHub\MyProject\DesktopAppFactorial\bin\Debug\ManojLibrary.pdb
+D:\C#\GitHub\MyProject\DesktopAppFactorial\bin\Debug\PublicLibrary.pdb
+D:\C#\GitHub\MyProject\DesktopAppFactorial\obj\Debug\DesktopAppFactorial.csproj.AssemblyReference.cache
+D:\C#\GitHub\MyProject\DesktopAppFactorial\obj\Debug\DesktopAppFactorial.csproj.SuggestedBindingRedirects.cache
+D:\C#\GitHub\MyProject\DesktopAppFactorial\obj\Debug\DesktopAppFactorial.Form1.resources
+D:\C#\GitHub\MyProject\DesktopAppFactorial\obj\Debug\DesktopAppFactorial.Properties.Resources.resources
+D:\C#\GitHub\MyProject\DesktopAppFactorial\obj\Debug\DesktopAppFactorial.csproj.GenerateResource.cache
+D:\C#\GitHub\MyProject\DesktopAppFactorial\obj\Debug\DesktopAppFactorial.csproj.CoreCompileInputs.cache
+D:\C#\GitHub\MyProject\DesktopAppFactorial\obj\Debug\DesktopAppFactorial.csproj.CopyComplete
+D:\C#\GitHub\MyProject\DesktopAppFactorial\obj\Debug\DesktopAppFactorial.exe
+D:\C#\GitHub\MyProject\DesktopAppFactorial\obj\Debug\DesktopAppFactorial.pdb
