@@ -1,0 +1,11 @@
+D:\C#\GitHub\Day16Project5\Day16Project5\bin\Debug\Day16Project5.exe.config
+D:\C#\GitHub\Day16Project5\Day16Project5\bin\Debug\Day16Project5.exe
+D:\C#\GitHub\Day16Project5\Day16Project5\bin\Debug\Day16Project5.pdb
+D:\C#\GitHub\Day16Project5\Day16Project5\bin\Debug\ManojLibrary.dll
+D:\C#\GitHub\Day16Project5\Day16Project5\bin\Debug\ManojLibrary.pdb
+D:\C#\GitHub\Day16Project5\Day16Project5\obj\Debug\Day16Project5.csproj.AssemblyReference.cache
+D:\C#\GitHub\Day16Project5\Day16Project5\obj\Debug\Day16Project5.csproj.SuggestedBindingRedirects.cache
+D:\C#\GitHub\Day16Project5\Day16Project5\obj\Debug\Day16Project5.csproj.CoreCompileInputs.cache
+D:\C#\GitHub\Day16Project5\Day16Project5\obj\Debug\Day16Project5.csproj.CopyComplete
+D:\C#\GitHub\Day16Project5\Day16Project5\obj\Debug\Day16Project5.exe
+D:\C#\GitHub\Day16Project5\Day16Project5\obj\Debug\Day16Project5.pdb

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3eb14190-e9b5-41ec-9d7f-293e74a51fa6": {
+      "ProjectGuid": "3eb14190-e9b5-41ec-9d7f-293e74a51fa6",
+      "DisplayName": "Day16Project5",
+      "ColorIndex": 0
+    },
+    "25e2b5ff-43d5-440a-9bc7-a46ac88faaab": {
+      "ProjectGuid": "25e2b5ff-43d5-440a-9bc7-a46ac88faaab",
+      "DisplayName": "ManojLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
