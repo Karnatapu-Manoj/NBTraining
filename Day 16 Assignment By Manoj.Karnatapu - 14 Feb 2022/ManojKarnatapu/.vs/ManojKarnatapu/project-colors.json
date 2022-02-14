@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e819854a-f5c5-4024-bb7e-12e74b26cab8": {
+      "ProjectGuid": "e819854a-f5c5-4024-bb7e-12e74b26cab8",
+      "DisplayName": "ConsoleApp",
+      "ColorIndex": 0
+    },
+    "265e2c1e-8731-4225-95b9-7a1cc89ee809": {
+      "ProjectGuid": "265e2c1e-8731-4225-95b9-7a1cc89ee809",
+      "DisplayName": "Mathematics",
+      "ColorIndex": 1
+    },
+    "3c8e9bba-5611-42f9-bff6-1acd567789b3": {
+      "ProjectGuid": "3c8e9bba-5611-42f9-bff6-1acd567789b3",
+      "DisplayName": "ManojLibrary",
+      "ColorIndex": 2
+    },
+    "0d0a3d97-8ba2-4cb3-ac3c-f60ddf168b21": {
+      "ProjectGuid": "0d0a3d97-8ba2-4cb3-ac3c-f60ddf168b21",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 3
+    },
+    "0d8f28ed-b91d-41fe-b31d-60d3d139621f": {
+      "ProjectGuid": "0d8f28ed-b91d-41fe-b31d-60d3d139621f",
+      "DisplayName": "ConsoleApp",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

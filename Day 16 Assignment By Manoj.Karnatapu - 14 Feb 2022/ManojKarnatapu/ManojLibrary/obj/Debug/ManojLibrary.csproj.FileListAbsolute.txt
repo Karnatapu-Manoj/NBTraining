@@ -1,0 +1,6 @@
+D:\C#\GitHub\ManojKarnatapu\ManojLibrary\bin\Debug\ManojLibrary.dll
+D:\C#\GitHub\ManojKarnatapu\ManojLibrary\bin\Debug\ManojLibrary.pdb
+D:\C#\GitHub\ManojKarnatapu\ManojLibrary\obj\Debug\ManojLibrary.csproj.AssemblyReference.cache
+D:\C#\GitHub\ManojKarnatapu\ManojLibrary\obj\Debug\ManojLibrary.csproj.CoreCompileInputs.cache
+D:\C#\GitHub\ManojKarnatapu\ManojLibrary\obj\Debug\ManojLibrary.dll
+D:\C#\GitHub\ManojKarnatapu\ManojLibrary\obj\Debug\ManojLibrary.pdb

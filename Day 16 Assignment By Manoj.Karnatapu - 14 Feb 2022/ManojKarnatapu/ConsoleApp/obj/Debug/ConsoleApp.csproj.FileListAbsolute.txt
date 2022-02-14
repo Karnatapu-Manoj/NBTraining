@@ -1,0 +1,11 @@
+D:\C#\GitHub\ManojKarnatapu\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\C#\GitHub\ManojKarnatapu\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\C#\GitHub\ManojKarnatapu\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\C#\GitHub\ManojKarnatapu\ConsoleApp\bin\Debug\ManojLibrary.dll
+D:\C#\GitHub\ManojKarnatapu\ConsoleApp\bin\Debug\ManojLibrary.pdb
+D:\C#\GitHub\ManojKarnatapu\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+D:\C#\GitHub\ManojKarnatapu\ConsoleApp\obj\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\C#\GitHub\ManojKarnatapu\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\C#\GitHub\ManojKarnatapu\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+D:\C#\GitHub\ManojKarnatapu\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\C#\GitHub\ManojKarnatapu\ConsoleApp\obj\Debug\ConsoleApp.pdb
