@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5af157fd-f812-4613-9243-d87884ba32e5": {
+      "ProjectGuid": "5af157fd-f812-4613-9243-d87884ba32e5",
+      "DisplayName": "AccessModifier",
+      "ColorIndex": 0
+    },
+    "1a3bbe86-f56f-47b5-903d-dcde568630c9": {
+      "ProjectGuid": "1a3bbe86-f56f-47b5-903d-dcde568630c9",
+      "DisplayName": "ManojLibrary",
+      "ColorIndex": 1
+    },
+    "831038a6-94bb-4bf0-9948-be0f654157cb": {
+      "ProjectGuid": "831038a6-94bb-4bf0-9948-be0f654157cb",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 2
+    },
+    "e764bd1e-2b24-4e14-a008-87448868ea06": {
+      "ProjectGuid": "e764bd1e-2b24-4e14-a008-87448868ea06",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
