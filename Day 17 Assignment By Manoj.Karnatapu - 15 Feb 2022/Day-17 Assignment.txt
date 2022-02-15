@@ -1,0 +1,14 @@
+Day-17 Assignment
+========================
+1. Research and write what is
+   assembly in C#
+
+2. In a tabular format write the 
+   access modifiers and explain
+
+   (as I did in the class, create two assemblies with 3 classes in first assembly, 2 classes in other assembly)
+
+3. Write or create a small PPT for
+   explaining Class and Object concepts
+   wrt real world examples
+   [ 3 slides ]
