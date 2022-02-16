@@ -1,0 +1,11 @@
+D:\C#\GitHub\Day18Project1\Day18Project1\bin\Debug\Day18Project1.exe.config
+D:\C#\GitHub\Day18Project1\Day18Project1\bin\Debug\Day18Project1.exe
+D:\C#\GitHub\Day18Project1\Day18Project1\bin\Debug\Day18Project1.pdb
+D:\C#\GitHub\Day18Project1\Day18Project1\obj\Debug\Day18Project1.csproj.AssemblyReference.cache
+D:\C#\GitHub\Day18Project1\Day18Project1\obj\Debug\Day18Project1.csproj.SuggestedBindingRedirects.cache
+D:\C#\GitHub\Day18Project1\Day18Project1\obj\Debug\Day18Project1.csproj.CoreCompileInputs.cache
+D:\C#\GitHub\Day18Project1\Day18Project1\obj\Debug\Day18Project1.exe
+D:\C#\GitHub\Day18Project1\Day18Project1\obj\Debug\Day18Project1.pdb
+D:\C#\GitHub\Day18Project1\Day18Project1\bin\Debug\ManojLibrary.dll
+D:\C#\GitHub\Day18Project1\Day18Project1\bin\Debug\ManojLibrary.pdb
+D:\C#\GitHub\Day18Project1\Day18Project1\obj\Debug\Day18Project1.csproj.CopyComplete

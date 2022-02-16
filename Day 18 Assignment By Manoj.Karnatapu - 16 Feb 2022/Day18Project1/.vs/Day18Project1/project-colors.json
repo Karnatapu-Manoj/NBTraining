@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25aaea87-3ab4-484e-b0eb-b65c3a7a81f2": {
+      "ProjectGuid": "25aaea87-3ab4-484e-b0eb-b65c3a7a81f2",
+      "DisplayName": "Day18Project1",
+      "ColorIndex": 0
+    },
+    "813d45cc-3893-4c57-96f9-66474f0f8a63": {
+      "ProjectGuid": "813d45cc-3893-4c57-96f9-66474f0f8a63",
+      "DisplayName": "ManojLibrary",
+      "ColorIndex": 1
+    },
+    "91f9bfdf-69a2-49c5-9d0d-7a8711b285e6": {
+      "ProjectGuid": "91f9bfdf-69a2-49c5-9d0d-7a8711b285e6",
+      "DisplayName": "WindowsDesktopApp",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,17 @@
+D:\C#\GitHub\Day18Project1\ManojLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\C#\GitHub\Day18Project1\ManojLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\C#\GitHub\Day18Project1\ManojLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\C#\GitHub\Day18Project1\ManojLibraryTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\C#\GitHub\Day18Project1\ManojLibraryTests\bin\Debug\ManojLibraryTests.dll
+D:\C#\GitHub\Day18Project1\ManojLibraryTests\bin\Debug\ManojLibraryTests.pdb
+D:\C#\GitHub\Day18Project1\ManojLibraryTests\bin\Debug\ManojLibrary.dll
+D:\C#\GitHub\Day18Project1\ManojLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\C#\GitHub\Day18Project1\ManojLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\C#\GitHub\Day18Project1\ManojLibraryTests\bin\Debug\ManojLibrary.pdb
+D:\C#\GitHub\Day18Project1\ManojLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\C#\GitHub\Day18Project1\ManojLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\C#\GitHub\Day18Project1\ManojLibraryTests\obj\Debug\ManojLibraryTests.csproj.AssemblyReference.cache
+D:\C#\GitHub\Day18Project1\ManojLibraryTests\obj\Debug\ManojLibraryTests.csproj.CoreCompileInputs.cache
+D:\C#\GitHub\Day18Project1\ManojLibraryTests\obj\Debug\ManojLibraryTests.csproj.CopyComplete
+D:\C#\GitHub\Day18Project1\ManojLibraryTests\obj\Debug\ManojLibraryTests.dll
+D:\C#\GitHub\Day18Project1\ManojLibraryTests\obj\Debug\ManojLibraryTests.pdb
