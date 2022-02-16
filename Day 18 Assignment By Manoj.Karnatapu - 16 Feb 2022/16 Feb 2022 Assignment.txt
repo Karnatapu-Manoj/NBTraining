@@ -1,0 +1,50 @@
+DAY-18 ASSIGNMENT
+================================
+
+1. What is the use of XML
+
+2. Write the points discussed about xml in the class
+
+3. Create a simple xml to illustrate:
+    a. Tag based xml with 10 products
+    b. Attribute based xml
+
+4. Convert the above xml to JSON and display the JSON data
+
+5. Research and write the benefits of JSON over XML
+   ( 2 or 3 points )
+
+6. For the below requirement, create a layered architecture
+   project with seperate class library for Business logic.
+ 
+   create console application
+   create windows(or desktop) application 
+
+   Business Requirement:
+
+   FIND FACTORIAL OF A NUMBER:
+
+       0  =  1
+ 
+       positive number (upto 7) = factorial answer
+
+       > 7  = -999 (as answer)
+
+       < 0 = -9999 (as answer)
+
+   put the screen shots of the output and
+   project (solution explorer) screen shot
+
+7. For the above method, Implement TDD
+   and write 4 test cases and put the code in word document.
+   put the screen shot of all test cases failing.
+
+   make the test cases pass.
+
+   put the screen shot
+
+
+8. Add one more method to check if the number is palindrome
+   or not in the above Algebra class and write 
+   test case for the same.
+
