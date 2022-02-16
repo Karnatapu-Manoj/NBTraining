@@ -1,0 +1,52 @@
+<Electronics>
+  <Mobile>
+	<ID>1</ID>
+	<Name>RedMi Note 3</Name>
+	<Price>13000</Price>
+  </Mobile>
+  <Mobile>
+	<ID>2</ID>
+	<Name>RedMi Note 6</Name>
+	<Price>16000</Price>
+  </Mobile>
+  <Mobile>
+	<ID>3</ID>
+	<Name>RealMe Note 11</Name>
+	<Price>14999</Price>
+  </Mobile>
+  <Mobile>
+	<ID>4</ID>
+	<Name>Vivo 11 Pro</Name>
+	<Price>18000</Price>
+  </Mobile>
+  <Mobile>
+	<ID>5</ID>
+	<Name>Oppo Reno</Name>
+	<Price>15999</Price>
+  </Mobile>
+  <Mobile>
+	<ID>6</ID>
+	<Name>OnePlus 9R</Name>
+	<Price>48999</Price>
+  </Mobile>
+  <Mobile>
+	<ID>7</ID>
+	<Name>Iphone 13</Name>
+	<Price>103000</Price>
+  </Mobile>
+  <Mobile>
+	<ID>8</ID>
+	<Name>Samsung Galaxy 9</Name>
+	<Price>79989</Price>
+  </Mobile>
+  <Mobile>
+	<ID>9</ID>
+	<Name>Nokia Lumia 990</Name>
+	<Price>86949</Price>
+  </Mobile>
+  <Mobile>
+	<ID>10</ID>
+	<Name>Surface Tab 6</Name>
+	<Price>98999</Price>
+  </Mobile>
+</Electronics>
