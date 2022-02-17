@@ -1,0 +1,12 @@
+<Electronics>
+  <Mobile ID = "1" Name = "RedMi Note 3" Price = "13000"/>
+  <Mobile ID = "2" Name = "RedMi Note 6" Price = "16000"></Mobile>
+  <Mobile ID = "3" Name = "RealMe Note 11" Price = "14999"></Mobile>
+  <Mobile ID = "4" Name = "Vivo 11 Pro" Price = "18000"></Mobile>
+  <Mobile ID = "5" Name = "Oppo Reno" Price = "15999"></Mobile>
+  <Mobile ID = "6" Name = "OnePlus 9R" Price = "48999"></Mobile>
+  <Mobile ID = "7" Name = "Iphone 13" Price = "103000"></Mobile>
+  <Mobile ID = "8" Name = "Samsung Galaxy 9" Price = "79989"></Mobile>
+  <Mobile ID = "9" Name = "Nokia Lumia 990" Price = "86949"></Mobile>
+  <Mobile ID = "10" Name = "Surface Tab 6" Price = "98999"></Mobile>
+</Electronics>
