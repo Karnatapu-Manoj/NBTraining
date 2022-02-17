@@ -1,0 +1,81 @@
+=============================
+Day-19 Assignment:
+=============================
+
+1. Write C# code to read xml file and print the content from the file.
+
+Sample XML:
+=============
+<Employees>
+  <Employee>
+    <ID>1</ID>
+    <Name>Meganadh</Name>
+    <Salary>2000</Salary>
+  </Employee>
+  <Employee>
+    <ID>2</ID>
+    <Name>Raj</Name>
+    <Salary>3000</Salary>
+  </Employee>
+</Employees>
+
+Sample Output:
+===============
+1Meganadh2000
+2Raj3000
+============================================================================
+2. Write C# code to read xml file and print only employee names from the xml
+Sample Output:
+Meganadh
+Raj
+=============================================================================
+3. Write C# code to read xml file and print as below information:
+Sample Output:
+1,Meganadh,2000
+2,Raj,3000
+=============================================================================
+4. Read Employee ID from user and write C# code to get the employee name from
+XML for this id.
+Sample Input:
+2
+Sample Output:
+Raj
+==============================================================================
+
+WORKING WITH JSON
+
+==============================================================================
+
+5. Write C# code to read JSON file and print the content from the file.
+
+Sample JSON:
+---------------
+
+[
+   {
+      "ID": "1",
+      "Name": "Meganadh",
+      "Salary": "2000"
+   },
+   {
+      "ID": "2",
+      "Name": "Raj",
+      "Salary": "3000"
+   }
+]
+
+Sample Output:
+-----------------
+1Meganadh2000
+2Raj3000
+==============================================================
+6.
+Same as 2 (but for JSON)
+==============================================================
+7. 
+Same as 3 (but for JSON)
+==============================================================
+8. 
+Same as 4 (but for JSON)
+==============================================================
+
