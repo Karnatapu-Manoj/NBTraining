@@ -1,0 +1,8 @@
+D:\C#\GitHub\DelegatesExample\DelegatesExample\bin\Debug\DelegatesExample.exe.config
+D:\C#\GitHub\DelegatesExample\DelegatesExample\bin\Debug\DelegatesExample.exe
+D:\C#\GitHub\DelegatesExample\DelegatesExample\bin\Debug\DelegatesExample.pdb
+D:\C#\GitHub\DelegatesExample\DelegatesExample\obj\Debug\DelegatesExample.csproj.AssemblyReference.cache
+D:\C#\GitHub\DelegatesExample\DelegatesExample\obj\Debug\DelegatesExample.csproj.SuggestedBindingRedirects.cache
+D:\C#\GitHub\DelegatesExample\DelegatesExample\obj\Debug\DelegatesExample.csproj.CoreCompileInputs.cache
+D:\C#\GitHub\DelegatesExample\DelegatesExample\obj\Debug\DelegatesExample.exe
+D:\C#\GitHub\DelegatesExample\DelegatesExample\obj\Debug\DelegatesExample.pdb
