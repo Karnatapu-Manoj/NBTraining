@@ -1,0 +1,8 @@
+D:\C#\GitHub\RefAndOutParameters\RefAndOutParameters\bin\Debug\RefAndOutParameters.exe.config
+D:\C#\GitHub\RefAndOutParameters\RefAndOutParameters\bin\Debug\RefAndOutParameters.exe
+D:\C#\GitHub\RefAndOutParameters\RefAndOutParameters\bin\Debug\RefAndOutParameters.pdb
+D:\C#\GitHub\RefAndOutParameters\RefAndOutParameters\obj\Debug\RefAndOutParameters.csproj.AssemblyReference.cache
+D:\C#\GitHub\RefAndOutParameters\RefAndOutParameters\obj\Debug\RefAndOutParameters.csproj.SuggestedBindingRedirects.cache
+D:\C#\GitHub\RefAndOutParameters\RefAndOutParameters\obj\Debug\RefAndOutParameters.csproj.CoreCompileInputs.cache
+D:\C#\GitHub\RefAndOutParameters\RefAndOutParameters\obj\Debug\RefAndOutParameters.exe
+D:\C#\GitHub\RefAndOutParameters\RefAndOutParameters\obj\Debug\RefAndOutParameters.pdb
