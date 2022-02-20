@@ -1,0 +1,8 @@
+D:\C#\GitHub\NullableTypes\NullableTypes\bin\Debug\NullableTypes.exe.config
+D:\C#\GitHub\NullableTypes\NullableTypes\bin\Debug\NullableTypes.exe
+D:\C#\GitHub\NullableTypes\NullableTypes\bin\Debug\NullableTypes.pdb
+D:\C#\GitHub\NullableTypes\NullableTypes\obj\Debug\NullableTypes.csproj.AssemblyReference.cache
+D:\C#\GitHub\NullableTypes\NullableTypes\obj\Debug\NullableTypes.csproj.SuggestedBindingRedirects.cache
+D:\C#\GitHub\NullableTypes\NullableTypes\obj\Debug\NullableTypes.csproj.CoreCompileInputs.cache
+D:\C#\GitHub\NullableTypes\NullableTypes\obj\Debug\NullableTypes.exe
+D:\C#\GitHub\NullableTypes\NullableTypes\obj\Debug\NullableTypes.pdb
