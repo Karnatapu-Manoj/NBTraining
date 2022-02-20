@@ -1,0 +1,17 @@
+----------------------------
+Day-20 Assignment:
+----------------------------
+
+1. Research and understand scope of variables in C#
+
+2. What are delegates in C#
+   Write the points dicussed about delegates in the class
+   Write C# code to illustrate the usage of delegates.
+
+3. What are nullable types in C#
+   WACP to illustrate nullable types
+   Write some properties of nullable types (like HasValue)
+
+4. out, ref - parameters
+   please research on these two types of parameters
+   write a C# program to illustrate the same.
