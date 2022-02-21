@@ -1,0 +1,8 @@
+D:\C#\GitHub\MyConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.exe.config
+D:\C#\GitHub\MyConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.exe
+D:\C#\GitHub\MyConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.pdb
+D:\C#\GitHub\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.AssemblyReference.cache
+D:\C#\GitHub\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\C#\GitHub\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.CoreCompileInputs.cache
+D:\C#\GitHub\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.exe
+D:\C#\GitHub\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.pdb

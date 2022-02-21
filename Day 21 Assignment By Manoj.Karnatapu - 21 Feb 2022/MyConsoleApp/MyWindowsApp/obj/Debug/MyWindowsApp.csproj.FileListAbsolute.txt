@@ -1,0 +1,11 @@
+D:\C#\GitHub\MyConsoleApp\MyWindowsApp\obj\Debug\MyWindowsApp.csproj.AssemblyReference.cache
+D:\C#\GitHub\MyConsoleApp\MyWindowsApp\obj\Debug\MyWindowsApp.csproj.SuggestedBindingRedirects.cache
+D:\C#\GitHub\MyConsoleApp\MyWindowsApp\obj\Debug\MyWindowsApp.Form1.resources
+D:\C#\GitHub\MyConsoleApp\MyWindowsApp\obj\Debug\MyWindowsApp.Properties.Resources.resources
+D:\C#\GitHub\MyConsoleApp\MyWindowsApp\obj\Debug\MyWindowsApp.csproj.GenerateResource.cache
+D:\C#\GitHub\MyConsoleApp\MyWindowsApp\obj\Debug\MyWindowsApp.csproj.CoreCompileInputs.cache
+D:\C#\GitHub\MyConsoleApp\MyWindowsApp\bin\Debug\MyWindowsApp.exe.config
+D:\C#\GitHub\MyConsoleApp\MyWindowsApp\bin\Debug\MyWindowsApp.exe
+D:\C#\GitHub\MyConsoleApp\MyWindowsApp\bin\Debug\MyWindowsApp.pdb
+D:\C#\GitHub\MyConsoleApp\MyWindowsApp\obj\Debug\MyWindowsApp.exe
+D:\C#\GitHub\MyConsoleApp\MyWindowsApp\obj\Debug\MyWindowsApp.pdb
