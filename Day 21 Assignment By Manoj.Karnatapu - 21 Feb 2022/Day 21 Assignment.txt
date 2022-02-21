@@ -1,0 +1,18 @@
+Day-21 Assignment:
+=============================
+
+1. Update your Visual Studio with .Net Framework Templates add on
+   (as discussed in the class)
+
+
+2. Create a web service for Mathematical Operations.
+
+    Example : Factorial, add, mul, div
+
+3. Create a Console Application and consume the webservice
+
+4. Create a Windows Forms application and consume the webservice
+
+     [ for finding factorial of the number ]
+
+5. Put the screen shots of webservice running
