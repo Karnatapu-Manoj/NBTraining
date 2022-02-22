@@ -1,0 +1,9 @@
+D:\C#\GitHub\ManojFinalProject\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.dll
+D:\C#\GitHub\ManojFinalProject\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.pdb
+D:\C#\GitHub\ManojFinalProject\BusinessLogicLibrary\bin\Debug\DataAccessLibrary.dll
+D:\C#\GitHub\ManojFinalProject\BusinessLogicLibrary\bin\Debug\DataAccessLibrary.pdb
+D:\C#\GitHub\ManojFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.AssemblyReference.cache
+D:\C#\GitHub\ManojFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.CoreCompileInputs.cache
+D:\C#\GitHub\ManojFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csproj.CopyComplete
+D:\C#\GitHub\ManojFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.dll
+D:\C#\GitHub\ManojFinalProject\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.pdb

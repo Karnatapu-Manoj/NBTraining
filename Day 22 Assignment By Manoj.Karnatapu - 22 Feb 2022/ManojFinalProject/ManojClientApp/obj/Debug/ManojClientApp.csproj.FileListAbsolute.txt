@@ -1,0 +1,13 @@
+D:\C#\GitHub\ManojFinalProject\ManojClientApp\bin\Debug\ManojClientApp.exe.config
+D:\C#\GitHub\ManojFinalProject\ManojClientApp\bin\Debug\ManojClientApp.exe
+D:\C#\GitHub\ManojFinalProject\ManojClientApp\bin\Debug\ManojClientApp.pdb
+D:\C#\GitHub\ManojFinalProject\ManojClientApp\bin\Debug\BusinessLogicLibrary.dll
+D:\C#\GitHub\ManojFinalProject\ManojClientApp\bin\Debug\DataAccessLibrary.dll
+D:\C#\GitHub\ManojFinalProject\ManojClientApp\bin\Debug\BusinessLogicLibrary.pdb
+D:\C#\GitHub\ManojFinalProject\ManojClientApp\bin\Debug\DataAccessLibrary.pdb
+D:\C#\GitHub\ManojFinalProject\ManojClientApp\obj\Debug\ManojClientApp.csproj.AssemblyReference.cache
+D:\C#\GitHub\ManojFinalProject\ManojClientApp\obj\Debug\ManojClientApp.csproj.SuggestedBindingRedirects.cache
+D:\C#\GitHub\ManojFinalProject\ManojClientApp\obj\Debug\ManojClientApp.csproj.CoreCompileInputs.cache
+D:\C#\GitHub\ManojFinalProject\ManojClientApp\obj\Debug\ManojClientApp.csproj.CopyComplete
+D:\C#\GitHub\ManojFinalProject\ManojClientApp\obj\Debug\ManojClientApp.exe
+D:\C#\GitHub\ManojFinalProject\ManojClientApp\obj\Debug\ManojClientApp.pdb

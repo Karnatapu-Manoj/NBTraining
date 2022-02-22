@@ -1,0 +1,7 @@
+101,ManojKarnatapu,30000,25
+102,ManojYekolla,26000,24
+103,PavanKumar,26000,26
+104,ViharDasari,20000,26
+105,ArunKumar,23000,27
+106,ManojKumar,28000,27
+109,VarunKumar,27999,24
